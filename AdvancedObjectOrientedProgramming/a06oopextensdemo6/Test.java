@@ -33,4 +33,5 @@ class OverseasStudent extends Person{
     public void drink(){
         System.out.println("喝凉水");
     }
+
 }
